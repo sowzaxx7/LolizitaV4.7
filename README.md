@@ -34,7 +34,7 @@
 
 > termux-setup-storage     
 > pkg install git     
-> git clone https://github.com/italuH/Lolizita-BOT  
+> git clone https://github.com/italuH/LolizitaV4.7
 > cd LolizitaV4.7 
 > bash install.sh     
 > npm start
